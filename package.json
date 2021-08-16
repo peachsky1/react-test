@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/peachsky1/react-test#readme",
   "devDependencies": {
+    "concurrently": "^6.2.1",
+    "nodemon": "^2.0.12",
     "typescript": "^4.3.5"
   }
 }

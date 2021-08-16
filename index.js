@@ -1,9 +1,6 @@
 console.log('hello, world!');
-
-function helloWorld(name: string): string{
+function helloWorld(name) {
     return 'hi there' + name;
-
 }
-
-const myName = helloWorld('Jason');
+var myName = helloWorld('Jason');
 console.log(myName);
